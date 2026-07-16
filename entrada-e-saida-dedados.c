@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*  FaÁa um programa que receba o sal·rio de 
-um funcion·rio e o percentual de aumento, calcule e mostre o valor do aumento e o 
-novo sal·rio. */
+/*  Fa√ßa um programa que receba o sal√°rio de 
+um funcion√°rio e o percentual de aumento, calcule e mostre o valor do aumento e o 
+novo sal√°rio. */
 
 int main(int argc, char *argv[]) {
 	
