@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Faça um programa que receba quatro 
-//números inteiros, calcule e mostre a soma desses números. 
+// FaÃ§a um programa que receba quatro 
+//nÃºmeros inteiros, calcule e mostre a soma desses nÃºmeros. 
 
 int main(int argc, char *argv[]) {
 	
@@ -17,7 +17,7 @@ int main(int argc, char *argv[]) {
 	printf("Informe o quarto numero:\n");
 	scanf("%d", &n4);
 	
-	soma = n1 - n2 + n3 + n4;
+	soma = n1 + n2 + n3 + n4;
 	
 	printf("O resultado da soma eh: %d.\n", soma);
 	system("pause");
